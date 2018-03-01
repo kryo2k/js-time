@@ -1,0 +1,2 @@
+# js-time
+Time object

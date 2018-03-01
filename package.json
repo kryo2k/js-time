@@ -1,0 +1,26 @@
+{
+  "name": "js-time",
+  "version": "1.0.1",
+  "description": "Time object made in TypeScript / ES6.",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p tsconfig.json && mv dist/time.d.ts index.d.ts"
+  },
+  "keywords": [
+    "time"
+  ],
+  "author": "Hans Doller <kryo2k@gmail.com>",
+  "license": "GPLv3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kryo2k/js-time.git"
+  },
+  "devDependencies": {
+    "@types/node": "^9.4.6",
+    "mocha": "^5.0.1",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.7.2"
+  },
+  "dependencies": {}
+}
