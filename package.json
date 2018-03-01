@@ -1,5 +1,5 @@
 {
-  "name": "js-time",
+  "name": "js-time-object",
   "version": "1.0.1",
   "description": "Time object made in TypeScript / ES6.",
   "main": "node index.js",
